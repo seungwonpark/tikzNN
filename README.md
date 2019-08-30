@@ -6,8 +6,11 @@ Includes `.tex` source code + results in `.pdf`, `.png` format.
 ## Examples
 
 - [PixelCNN](https://arxiv.org/abs/1606.05328) masks
+
 ![](PixelCNN/PixelCNNmask.png) 
+
 - Multi scale modelling from [MelNet](https://arxiv.org/abs/1906.01083)
+
 ![](MelNet/MultiScaleModelling.png)
 
 
