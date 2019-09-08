@@ -5,6 +5,10 @@ Includes `.tex` source code + results in `.pdf`, `.png` format.
 
 ## Examples
 
+- [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) dilated convolution process
+
+![](wavenet/wavenet.gif)
+
 - [PixelCNN](https://arxiv.org/abs/1606.05328) masks
 
 ![](PixelCNN/PixelCNNmask.png) 
